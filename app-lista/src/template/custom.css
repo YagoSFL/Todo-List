@@ -1,0 +1,41 @@
+.btn-floating {
+    margin-right: 5px;
+}
+
+ /* label color */
+ .input-field label {
+    color: #212121;
+  }
+  /* label focus color */
+  .input-field #description:focus + label {
+    color: #212121;
+  }
+  /* label underline focus color */
+  .input-field #description:focus {
+    border-bottom: 1px solid #ffd600;
+    box-shadow: 0 1px 0 0 #ffd600;
+  }
+  /* icon prefix focus color */
+  .input-field .prefix.active {
+    color: #ffd600;
+  }
+
+.font-title {
+    font-weight: bold;
+}
+
+.tableActions {
+    width: 130px;
+    text-align: center;
+}
+
+.posit{
+    margin-top: 20px;
+    float: right;
+}
+
+.markedAsDone {
+    
+    color: #777;
+    background-color: #fafafa; 
+}
