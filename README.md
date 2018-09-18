@@ -1,6 +1,7 @@
 # Introdução
 
-Aplicação para gerenciamento de tarefas
+Aplicação para gerenciamento de tarefas permitindo marcar como concluidas ou
+a concluir, e exibe as datas de criação e conclusão.
 
 # Sobre o build
 
